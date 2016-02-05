@@ -1,0 +1,191 @@
+
+# Site settings
+
+# NB! Set your site's url, otherwise stuff will break :)
+
+url: "https://rawlk.com"
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (https://yourusername.github.io/repository-name)
+# and NOT your user repository (https://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+#
+# NB! Without this *nothing* will work, because it's used in every path :)
+
+baseurl: 
+
+# Google tracking id to track your visitors
+
+google-tracking-id: "UA-35336471-1"
+
+# Forces https everywhere in your website, except when you serve it locally
+# If you are not hosted on Github Pages, and your host doesn't support https
+# then you should disable it
+
+force-https: True
+
+#############
+# HTML Head #
+#############
+
+lang: "en"
+author: "Rawlk Technologies"
+title: "{ Rawlk Technologies }"
+description: "Mini Blog and landing page for Rawlk Technologies."
+keywords: "clubhouse, trailers, hadleydesign, rawlk, technologies, personal, jekyll"
+favicon: "/img/favicon.ico"
+404-img: "/img/labtocat.png"
+
+################
+# Header layout #
+################
+
+black-favicon: "/img/black-lab-glass.ico"
+
+#background-img: "../img/intro-bg.jpg"
+background-img: "../img/bkgrnd2.jpg"
+
+##############################
+# Dynamic Text on the Header #
+##############################
+
+dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 6000
+lines: # You can add HTML Tags in the Text
+  - text: "The lower you fall, the higher you'll fly."
+  - text: "Where’s your will to be weird?"
+  - text: "Should be fine..."
+  - text: "We run on self signed root certs!                         jk"
+  - text: "Stay outa trouble!                             or dont get caught :)"
+  - text: "<i>Rawlk Technologies</i> <br> Advancing your technologies one bit at a time"
+  - text: "Always remember you're unique,                just like everyone else."
+  - text: "Don't worry, it only seems kinky the first time"
+  - text: "A mind is a terrible thing to ugh...                I forgot..."
+  - text: "A life? Where can I download that?"
+  - text: "It works better if you plug it in"
+  - text: "Don't ask me - I just work here"
+  - text: "I don't know what your problem is, but I'll bet it's hard to pronounce."
+  - text: "Sarcasm is just one more service we offer."
+  - text: "How do I set a laser printer to stun?"
+
+
+#me-img: "/img/jetpacktocat.png"
+me-img: "/img/suitepic-small.jpg"
+
+################
+# Web app mode #
+################
+
+web-app-mode: True
+
+# Icons for Web App mode
+
+icon-36p: "/img/web-app/icon-36p.png"
+icon-48p: "/img/web-app/icon-48p.png"
+icon-72p: "/img/web-app/icon-72p.png"
+icon-96p: "/img/web-app/icon-96p.png"
+icon-144p: "/img/web-app/icon-144p.png"
+icon-192p: "/img/web-app/icon-192p.png"
+
+########
+# Blog #
+########
+
+post-preview-words: 96
+
+paginate: 10
+
+email-share: False
+fb-share: False
+twitter-share: False
+linkedin-share: False
+reddit-share: False
+google-plus-share: False
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
+
+#disqus-shortname: "panossakkos"
+
+syntax-highlight: True
+
+############
+# Timeline #
+############
+
+events:
+  - image: "/img/google-g.png"
+    date: "August 2015 -  Current"
+    description: "Hired by Google!"
+  - image: "/img/timeline/onegas_logo.png"
+    date: "May 2014 - May 2015"
+    description: "Worked at OGS"
+  - image: "/img/osu.png"
+    date: "August 2011 - May 2015"
+    description: "Oklahoma State University!"
+
+# First image of the Timeline
+
+timeline-img: "/img/timeline/default.png"
+
+###########
+# Contact #
+###########
+
+email: "chip@rawlk.com"
+
+##################
+# Social Buttons #
+##################
+
+social:
+#  - title: "facebook"
+#    url: "https://facebook.com/"
+#  - title: "twitter"
+#    url: "https://twitter.com/"
+  - title: "github"
+    url: "https://github.com/rawlk"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  - title: "rss"
+    url: "/feed.xml"
+
+############
+# 404 page #
+############
+
+404-img: "/img/labtocat.png"
+
+################################################################################
+
+# NB! Tread carefully if you want to change the variables below this point!
+
+# Sections shown in the index page
+
+pages_list:
+  About: 'about'
+  Blog: 'latest-post'
+  Timeline: 'timeline'
+  Contact: 'contact'
+# Exclusion list from the generated _site
+
+exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+
+# Pagination path
+
+paginate_path: "blog/page:num/"
+
+# Enable minification SASS
+
+sass:
+  style: compressed
+
+gems:
+  - jekyll-paginate
+  - jemoji
