@@ -64,7 +64,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Stay outa trouble!                             or dont get caught :)"
   - text: "<i>Rawlk Technologies</i> <br> Advancing your technologies one bit at a time"
   - text: "Always remember you're unique,                just like everyone else."
-  - text: "Don't worry, it only seems kinky the first time"
+#  - text: "Don't worry, it only seems kinky the first time"
   - text: "A mind is a terrible thing to ugh...                I forgot..."
   - text: "A life? Where can I download that?"
   - text: "It works better if you plug it in"
