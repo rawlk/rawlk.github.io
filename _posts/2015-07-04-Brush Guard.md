@@ -8,7 +8,7 @@ tags: [ 'blog', 'dodge' ]
 Got a brush guard!
 Found it listed out on Craig's List not too far from home. Decided to pick it up. Apparently the guy had the same truck as mine and ended up selling it before he could put this guard on. Works for me!
 
-<img src='/img/brushguardhold.jpg' alt='Testfitting the new Brushguard' style='width: 500px;'/>
+<img src='/img/brushguardholding.jpg' alt='Testfitting the new Brushguard' style='width: 500px;'/>
 
 Spent about 2 hours with a buffing wheel and some compound and it cleaned up pretty well!
 
