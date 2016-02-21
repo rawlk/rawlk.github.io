@@ -6,7 +6,7 @@ category: blog
 tags: [ 'blog','personal', 'dodge' ]
 ---
 
-Just before the trip I replaced the shackles on the back with the stock shackles (raising it up a couple inches) in hopes of putting the heavier leafs back on. Turns out, the leafs already on it are stronger than the loose ones I have . Ahwell... Well now it rides a couple inches higher in the back if ever I actually get to do some trails.
+Just before the trip I replaced the shackles on the back with the stock shackles (raising it up a couple inches) in hopes of putting the heavier leafs back on. Turns out, the leafs already on it are stronger than the loose ones I have . Ahwell... atleast it now rides a couple inches higher in the back if ever I actually get to do some trails. ¯\\_(ツ)_/¯
 
 Along with the shackles, I got everything greased up that I could (though i still have a heavy steering/front end squeak I cant seem to fix).
 
