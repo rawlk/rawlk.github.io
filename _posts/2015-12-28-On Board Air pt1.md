@@ -7,7 +7,7 @@ tags: [ 'blog','personal', 'dodge' ]
 ---
 Several weeks ago I made a couple questionable craigslist purchases. I ended up with a [Viair 380c](http://www.viaircorp.com/380C.html). Along in the deal I somehow also picked up a 37" Grover air horn and a tank that looks suspiciously like a ~4gal version of the 2.5gal Viair.
 
-######by the way, this is [crossposted on ExPo Forums](http://www.expeditionportal.com/forum/threads/144428-2001-Dodge-Ram-2500-Cummins-Questions-Slow-Build?p=1991900#post1991900)
+###### by the way, this is [crossposted on ExPo Forums](http://www.expeditionportal.com/forum/threads/144428-2001-Dodge-Ram-2500-Cummins-Questions-Slow-Build?p=1991900#post1991900)
 
 <img src='/img/obaassorted.jpg' alt='Assorted Supplies' style='width: 450px;'/>
 
