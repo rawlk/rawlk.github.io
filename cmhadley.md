@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bio?
+permalink: /cmhadley/
 ---
 ### [Corey Hadley](mailto:ohthatguy@google.com)
 
