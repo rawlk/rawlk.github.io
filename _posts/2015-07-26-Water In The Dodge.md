@@ -6,7 +6,7 @@ category: dodge
 tags: [ 'blog', 'dodge' ]
 ---
 
-SO, just before that trip in my last post I came across a slight setback. I was tucking cable for the cb's sunder the seals around the doors (one on each side) when I found there was a TON of water sitting just inside the floor edge on the passenger's side. So much so that it was actually draining out one of the screw holes that holds the lower molding on. I had noticed water dripping from under the passenger's door a few weeks ago but didn't think anything of it.
+SO, just before that trip in my last post I came across a slight setback. I was tucking cable for the cb's under the seals around the doors (one on each side) when I found there was a TON of water sitting just inside the floor edge on the passenger's side. So much so that it was actually draining out one of the screw holes that holds the lower molding on. I had noticed water dripping from under the passenger's door a few weeks ago but didn't think anything of it.
 
 <img src='/img/dodgeinsideout.jpg' alt='Interior all out' style='width: 600px;'/>
 
