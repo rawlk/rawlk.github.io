@@ -17,7 +17,7 @@ I'll try and list everything the previous owners have done, but I keep coming ac
 
 - 2001 Dodge Ram 5.9L Cummins - SLT/Laramie
 - 265K miles
-- Rebuilt Automatic Transmission @ 250K (47re case/48re internals)
+- Rebuilt Automatic Transmission @ 260K (47re case/48re internals in 9/2015)
 - 2" drop/shackles on the back
 - Engine has been partially dismantled and resealed with new gaskets. (in the photos, everything the previous owner 'touched' he painted red, kinda odd, but its a terrific way to keep track of things :-P )
 - New Air/Vacuum pump
@@ -25,23 +25,21 @@ I'll try and list everything the previous owners have done, but I keep coming ac
 - HID lamps & reflectors/lenses
 - LED interior light swap
 - EDGE Juice CTS <- I'm new to the world of diesels, but this thing is pretty sweet
-- Air Dog Lift pump 
+- Air Dog Lift pump (freshly replaced motor in [this post](https://rawlk.com/dodge/2015/11/27/Failed-Dodge-Lift-Pump.html))
 - S&B Cool Air intake
 - 4in MagnaFlow turbo-back
-- Newish set of 6Y Duralast batteries
-- Viair 380c compressor w/ 2g tank
+- Brand new set of 6Y Duralast batteries (10/2016)
+- Brand new set of Optima Yellowtop batteries (Aux) (10/2016)
+- Viair 380c compressor w/ 2.5g tank
 - Grover 37"
 - Auxbeam front floods
 - Brushguard
+- Nerf Bars
 
 <img src='/img/dodgeenginebay.jpg' alt='The engine bay' style='width: 500px;'/>
 
-
-So I do have several questions. I'm new to the world of large trucks and overlanding but am ready to dive in  Any help or advice is greatly appreciated!
-That lift pump. I can't find a whole lot of maintenance instructions for it. How often are the filter(s) supposed to be changed? It seems to be in a pretty standard location but it worries me it hangs so far below the frame, do many people move 'em?
+I'm new to the world of large trucks and overlanding but am ready to dive in.
 
 <img src='/img/dodgesideliftpump.jpg' alt='Dodge Side & Lift Pump' style='width: 500px;'/>
 
-Unfortunately though, I do have a lot of chips and quite a few cracks in the paint, especially up on the roof of the truck. They might get fixed eventually, but not any time soon. I also have the factory shackles and overload springs for the back end, with a Leer 122 on the back, I'm thinking I might go ahead and re-add them. 
-
-Last one for now.. SoCal seems to be pretty active... Anyone up in the bay area? Would anyone be willing to show me the ropes when I move out late July?
+Unfortunately though, I do have a lot of chips and quite a few cracks in the paint, especially up on the roof of the truck. They might get fixed eventually, but not any time soon. I also have the factory shackles and overload springs for the back end, with a Leer 122 on the back, I'm thinking I might go ahead and re-add them. Hopefully with plans to build out the back. 
